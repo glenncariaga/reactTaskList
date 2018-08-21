@@ -1,0 +1,14 @@
+.completed{
+    text-decoration: line-through;
+}
+
+.title {
+    font-size:large;
+}
+
+.locked{
+    color:gray;
+}
+.subHeading{
+    color:gray;
+}
